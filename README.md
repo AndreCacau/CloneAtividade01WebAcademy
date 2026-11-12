@@ -1,6 +1,6 @@
 # Web Academy Portal
 
-Bem-vindo ao **Web Academy Portal**!
+Bem-vindo ao **Web Academy Portal**! Testando o Workflow de verificação do README!
 
 Este projeto consiste em uma página institucional simples desenvolvida para ser utilizada durante a disciplina **Integração Contínua**, do curso **Web Academy**.
 
